@@ -1,2 +1,7 @@
 node_modules
-package-lock.json
+.dockerignore
+.env
+Dockerfile
+fly.toml
+.DS_Store
+fly-deploy.yml
